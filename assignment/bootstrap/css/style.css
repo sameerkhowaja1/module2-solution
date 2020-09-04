@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+}
+h3{
+	padding: 5px;
+	float: right;
+	border: 1px solid black;
+	text-align: center;
+	background-color: #A9A9A9;
+}
+.row{
+	margin: 20px;
+}
+.row > div{
+	padding: 0px;
+	border: 1px solid black;
+	background-color: #6495ED;
+} 
+p{
+	padding: 50px 10px 10px 10px;
+
+}
